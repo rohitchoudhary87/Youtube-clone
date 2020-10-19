@@ -1,0 +1,11 @@
+.main {
+  background-color: #f9f9f9;
+  flex: 0.8;
+  padding: 40px 20px;
+  padding-bottom: 0;
+}
+
+.main__videos{
+  display: flex;
+  flex-wrap: wrap;
+}
